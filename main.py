@@ -1,1 +1,1 @@
-print ("hello lord")
+print ("hello world")
